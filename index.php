@@ -1,6 +1,6 @@
 <?php
 include 'includes/config.php';
-
+//test
 include "views/menu.php";
 switch($_GET['page'])
 {
